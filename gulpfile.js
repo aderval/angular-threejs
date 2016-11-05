@@ -24,9 +24,9 @@ gulp.task('dist', function() {
 			'src/threejs-plugins.service.js',
 			'src/threejs-textures.service.js'
 		])
-		.pipe(concat('angular-threejs.js'))
+		.pipe(concat('angular-threejs-al.js'))
 		.pipe(gulp.dest('dist'))
-		.pipe(rename('angular-threejs.min.js'))
+		.pipe(rename('angular-threejs-al.min.js'))
 		.pipe(ngAnnotate())
 		.pipe(uglify())
 		.pipe(gulp.dest('dist'));

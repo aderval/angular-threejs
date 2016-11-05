@@ -37,6 +37,7 @@
 			// renderer.autoClear = false; // To allow render overlay on top of sprited sphere
 		}
 
+/*
 		function onScriptLoad() {
 			if (!renderer) setRenderer();
 			$log.log("THREE.js loaded OK!");
@@ -66,6 +67,7 @@
 
 		var s = $document[0].getElementsByTagName('body')[0];
 		s.appendChild(scriptTag);
+*/
 
 		function resetRenderer() {
 			// Reset when switching between views, routes or states (with ui-router	module).

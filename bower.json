@@ -1,10 +1,10 @@
 {
-  "name": "angular-threejs",
-  "version": "0.1.2",
+  "name": "angular-threejs-al",
+  "version": "0.1.0",
   "dependencies": {
     "angular": ">0.9.0"
   },
-  "main": "angular-threejs.js",
+  "main": "angular-threejs-al.js",
   "ignore": [
     ".*",
     "**/.*",
@@ -13,5 +13,5 @@
     "src",
     "package.json"
   ],
-  "homepage": "https://github.com/3DGenomes/angular-threejs"
+  "homepage": "https://github.com/aderval/angular-threejs-al"
 }

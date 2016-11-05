@@ -1,21 +1,21 @@
 {
-  "name": "angular-threejs",
-  "version": "0.1.2",
-  "description": "THREEjs Service for Angular",
-  "main": "dist/angular-threejs.min.js",
+  "name": "angular-threejs-al",
+  "version": "0.1.0",
+  "description": "THREEjs Service for Angular, assuming threejs lib is already loaded",
+  "main": "dist/angular-threejs-al.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/3DGenomes/angular-threejs.git"
+    "url": "https://github.com/aderval/angular-threejs-al"
   },
-  "author": "Mike Goodstadt",
+  "author": "Aderval Mendonça",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/3DGenomes/angular-threejs/issues"
+    "url": "https://github.com/aderval/angular-threejs-al/issues"
   },
-  "homepage": "https://github.com/3DGenomes/angular-threejs",
+  "homepage": "https://github.com/aderval/angular-threejs-al",
   "devDependencies": {
     "gulp": "^3.8.7",
     "gulp-concat": "^2.3.4",
